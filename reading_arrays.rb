@@ -5,7 +5,7 @@ STUDENT_NAMES = [
 "Lady Gaga",
 "Nicki Minaj",
 "Rihanna"]
-puts STUDENT_NAMES.first
+puts STUDENT_NAMES
 
 
 # def first_student_by_index
